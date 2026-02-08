@@ -137,7 +137,9 @@ The business should prioritize high-performing products, re-engage inactive cust
 
 ## REFERENCES
 Official SQL documentation and reputable database learning resources were consulted for this project such as:
+
 [*W3Schools SQL Window Functions Reference.](https://www.w3schools.com/sql/)
+
 [Mode SQL Tutorial (Analytics-Oriented)](https://mode.com/sql-tutorial/sql-window-functions/)
 
 All sources were properly cited. The implementations and analysis represent original work. No AI-generated content was copied without attribution or adaptation.
